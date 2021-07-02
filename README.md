@@ -27,8 +27,10 @@ Need to know the basic functions in python and must known to work with button ac
 4.![image](https://user-images.githubusercontent.com/62948487/124246450-8faf0780-db3e-11eb-8653-9ccf3cc0f2c8.png)
 
 5.You can work with it 
-for more info chech my blog 
+for more info check my blog 
+
 https://gbarathk.blogspot.com/2021/06/gui-application-software-in-python.html
+
 youtube (use head phones sry for low sound): https://www.youtube.com/watch?v=Hg4td3Od9Ik
 
 **********************Happy coding ***************************
